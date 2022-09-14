@@ -11,7 +11,6 @@ namespace HelloWorld10
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World number TEN!!!!!!");
-            Console.WriteLine("By Ryan McGrath");
             Console.WriteLine("I'm Commiting this change of text");
             Console.ReadKey(true);
 
